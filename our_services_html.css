@@ -1,0 +1,72 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+		a.wsp12f25c71{ color:#000000; text-decoration: underline} 
+		a.wsp12f25c71:visited{ color:#000000; text-decoration: underline} 
+		a.wsp12f25c71:active{ color:#000000; text-decoration: underline} 
+		a.wsp12f25c71:hover{ color:#000000; text-decoration: underline} 
+#menu_30818d64 a { text-decoration: none; }
+#menu_30818d64_pane { background-color: #E6E6E6; border: 1px solid #E6E6E6; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_30818d64_hr { background-color: #E6E6E6; height: 1px; border: none; }
+#menu_30818d64_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_30818d64_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_30818d64_entry:hover span { color:#FFFFFF !important; }
+		.menu_30818d64_mainMenuEntry { text-align: center; }
+		.menu_30818d64_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_30818d64_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_30818d64 .mobileEntry { display: none; } 
+		#menu_30818d64 .normalEntry { display: block; } 
+		#menu_30818d64_menualignmentwrapper{ width:765px; left: calc(50% - 382px);  } 
+		@media only screen and (max-width:550px) { 
+			#menu_30818d64 .mobileEntry { display: block; } 
+			#menu_30818d64 .normalEntry { display: none; } 
+			#menu_30818d64_menualignmentwrapper { width:37px; left: calc(50% - 18px);  } 
+		}
+#gallery_6e32fa5d div.galleryimgcontainer { box-sizing: border-box; vertical-align: middle; display: inline-block; width: 25%; height: auto; padding: 15px;  } 
+#gallery_6e32fa5d div.galleryimgcontainer img {  width: 100%;  height: auto;  } 
+@media only screen and (max-width:650px) { #gallery_6e32fa5d div.galleryimgcontainer { width: 33%; } } 
+@media only screen and (max-width:520px) { #gallery_6e32fa5d div.galleryimgcontainer { width: 50%; } } 
+@media only screen and (max-width:420px) { #gallery_6e32fa5d div.galleryimgcontainer { width: 100%; } } 
+body { background-color:#DBB2E5; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#button_491a62e6 { border-radius: 5px; position:absolute; left:45%; top:84%; width:150px; height:40px; background-color:#E9B448; box-shadow: 7px 7px 10px -5px rgba(0, 0, 0, 0.784314);  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#text_6532fa0e { position:absolute; left:48%; top:96%; background:none;  }
+.textstyle4 { font-size:7pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#text_43f35ecd { position:absolute; left:4%; top:95%; background:none;  }
+#text_41316cca { position:absolute; left:14%; top:95%; background:none;  }
+#text_55ab0de8 { position:absolute; left:42%; top:22%; background:none;  }
+.textstyle5 { font-size:20pt; font-family:'Kymer Awon SC'; color:#000000; font-weight:bold;  }
+#img_5d9ab79c { position:absolute; left:93%; top:89%; width:4%; background:none; height:auto;  }
+#img_3e2f4515 { position:absolute; left:86%; top:89%; width:4%; background:none; height:auto;  }
+#text_1ebebf5c { position:absolute; left:79%; top:93%; background:none;  }
+#menu_30818d64 { box-sizing: border-box; position:absolute; left:0%; top:14%; width:100%; height:38px; text-align:left; background-color:#E5E5E5; background: linear-gradient(to bottom, #FFFFFF, #E5E5E5); border: 1px solid #A0A0A0;  }
+#menu_30818d64_menualignmentwrapper { position: relative; overflow: visible; height: 100%; }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:37px; height:38px; left:0px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
+.textstyle6 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:76px; height:38px; left:0px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:24px;  }
+.textstyle7 { font-size:16pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle3 { position:absolute; width:30px; height:38px; left:76px;  }
+.menuentry_text3 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:0px;  }
+.menustyle4 { position:absolute; width:142px; height:38px; left:106px;  }
+.menustyle5 { position:absolute; width:25px; height:38px; left:248px;  }
+.menuentry_text4 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:18px;  }
+.textstyle8 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle6 { position:absolute; width:86px; height:38px; left:273px;  }
+.menustyle7 { position:absolute; width:25px; height:38px; left:359px;  }
+.menustyle8 { position:absolute; width:107px; height:38px; left:384px;  }
+.menustyle9 { position:absolute; width:25px; height:38px; left:491px;  }
+.menustyle10 { position:absolute; width:125px; height:38px; left:516px;  }
+.menustyle11 { position:absolute; width:25px; height:38px; left:641px;  }
+.menustyle12 { position:absolute; width:99px; height:38px; left:666px;  }
+#img_5ca8ebc2 { position:absolute; left:44%; top:-6%; width:11%; background:none; height:auto;  }
+#gallery_6e32fa5d { overflow:hidden; position:absolute; left:19%; top:30%; width:68%; min-height:211px;  }
+#text_3723208e { position:absolute; left:3%; top:79%; background:none;  }
+.textstyle9 { font-size:11pt; font-family:'Lucida Sans Unicode', 'Lucida Grande', sans-serif; color:#000000; font-weight:bold;  }
